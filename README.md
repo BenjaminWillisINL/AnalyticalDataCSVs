@@ -7,3 +7,5 @@ For generating CSV files used in plots: All jupyter notebooks and required input
 NOTE: Make sure to read the notes left in the jupyter notebooks for running the sensitivity studies, the files titled "RunSensitivityStudies". These notes are critical to run the sensitivity studies correctly. Also make sure FrictionFactors.ipynb notebook is in the same folder as all "RunSensitivityStudies" jupyter notebooks in order to get all the functions needed to calculate pressure drop and flow distribution. 
 
 IMPORTING Error: If the FrictionFactors.ipynb jupyter notebook won't import correctly, type the following command into the terminal: "pip3 install ipynb"
+
+POWERPOINT: Powerpoint has hyperlinks that link all plots and studies to their specific area of the repository. For example, in the Permeability study slides with the plots, there is a link taking you to the section of the Github repository where the CSV files pertaining to those plots are. That Github section also holds the Jupyter notebook files used to generate each plot.
