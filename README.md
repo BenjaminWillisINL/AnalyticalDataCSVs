@@ -15,3 +15,5 @@ NOTE: Make sure to read the notes left in the jupyter notebooks for running the 
 IMPORTING Error: If the FrictionFactors.ipynb jupyter notebook won't import correctly, type the following command into the terminal: "pip3 install ipynb"
 
 POWERPOINT: Powerpoint has hyperlinks that link all plots and studies to their specific area of the repository. For example, in the Permeability study slides with the plots, there is a link taking you to the section of the Github repository where the CSV files pertaining to those plots are. That Github section also holds the Jupyter notebook files used to generate each plot.
+
+Link to GitHub Repository of Base Analytical Model: https://github.com/pranayasai/FlowDistribution
