@@ -18,4 +18,4 @@ POWERPOINT: Powerpoint has hyperlinks that link all plots and studies to their s
 
 Link to GitHub Repository of Base Analytical Model: https://github.com/pranayasai/FlowDistribution
 
-DOI of Research article for Analytical Model: https//doi.org/10.1016/j.renene.2022.05.079
+DOI of Research article for Analytical Model: [https//doi.org/10.1016/j.renene.2022.05.079](https://doi.org/10.1016/j.renene.2022.05.079)
