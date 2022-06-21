@@ -18,6 +18,6 @@ POWERPOINT: Powerpoint has hyperlinks that link all plots and studies to their s
 
 INSTRUCTION MANUAL: Provides in depth step by step instructions to run each sensitivity study and how to generate and save all the plots from the PowerPoint.
 
-Link to GitHub Repository of Base Analytical Model: https://github.com/pranayasai/FlowDistribution
+Link to GitHub Repository of Base Analytical EGS Model: https://github.com/pranayasai/FlowDistribution
 
-DOI of Research article for Analytical Model: [https//doi.org/10.1016/j.renene.2022.05.079](https://doi.org/10.1016/j.renene.2022.05.079)
+DOI of Research article for Analytical EGS Model: [https//doi.org/10.1016/j.renene.2022.05.079](https://doi.org/10.1016/j.renene.2022.05.079)
