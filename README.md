@@ -16,6 +16,8 @@ IMPORTING Error: If the FrictionFactors.ipynb jupyter notebook won't import corr
 
 POWERPOINT: Powerpoint has hyperlinks that link all plots and studies to their specific area of the repository. For example, in the Permeability study slides with the plots, there is a link taking you to the section of the Github repository where the CSV files pertaining to those plots are. That Github section also holds the Jupyter notebook files used to generate each plot.
 
+INSTRUCTION MANUAL: Provides in depth step by step instructions to run each sensitivity study and how to generate and save all the plots from the PowerPoint.
+
 Link to GitHub Repository of Base Analytical Model: https://github.com/pranayasai/FlowDistribution
 
 DOI of Research article for Analytical Model: [https//doi.org/10.1016/j.renene.2022.05.079](https://doi.org/10.1016/j.renene.2022.05.079)
